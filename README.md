@@ -13,6 +13,7 @@ Python <br>
 Ollama <br>
 Requests <br>
 Qwen 2.5 3B <br>
+Docker. <br> <br>
 How It Works <br>
 The application takes input from the user through the terminal and sends the prompt to the Ollama API. Ollama processes the prompt using the selected language model and returns the generated response, which is displayed in the terminal. <br> <br>
 --Setup <br>
